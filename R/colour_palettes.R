@@ -55,7 +55,7 @@ prince_palette <- list(
     "#E36A22", ## Spanish Orange
     "#AA3B1F", ## Chinese Red
     "#010101"  ## Black
-  )
+  ),
   ## Sign O the Times ----
   SignOtheTimes = c(
     "#842410", ## Kobe
@@ -65,6 +65,45 @@ prince_palette <- list(
     "#D6C9EF", ## Thistle
     "#6E692A", ## Antique Bronze
     "#4E2B19"  ## Seal Brown
+  ),
+  ## LoveSexy ----
+  LoveSexy = c(
+    "#CEC54E", ## Old Gold
+    "#8447A9", ## Royal Purple
+    "#D5A97A", ## Fawn
+    "#511D01", ## Seal Brown
+    "#AC6A37", ## Liver Dogs
+    "#D8BFDE", ## Thistle
+    "#ECDCD0"  ## Champagne Pink
+  ),
+  ## LoveSymbol ----
+  LoveSymbol = c(
+    "#59859D", ## Steel Blue
+    "#E0BB5B", ## Gold Metallic
+    "#6A5428", ## Field Drab
+    "#ACAFB8", ## Silver Metallic
+    "#B29C74", ## Camel
+    "#9F7E78", ## Burnished Brown
+    "#0B181A"  ## Rich Black FOGRA 29
+  ),
+  ## AroundTheWorld ----
+  AroundTheWorld = c(
+    "#821700", ## Dark Red
+    "#AC4C83", ## Mystic Maroon
+    "#336997", ## Queen Blue
+    "#73AD79", ## Forest Green Crayola
+    "#FFA63D", ## Yellow Orange
+    "#402F4E", ## English Violet
+    "#BA7E4E", ## Copper
+    "#716652"  ## French Bistre
+  ),
+  ## Emancipation ----
+  Emancipation = c(
+    "#F2EB7C", ## Khaki X 11 Light Khaki
+    "#F08C51", ## Mango Tango
+    "#E55A3F", ## Fire Opal
+    "#7A3A34", ## Bole
+    "#2B3832"  ## Pine Tree
   )
 )
 
